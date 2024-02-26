@@ -3,6 +3,7 @@
 
 
 <img width="590px" src="https://github.com/iambashir/images-for-web/blob/main/01_preview-image.png">
+<img width="590px" src="https://github.com/iambashir/images-for-web/blob/main/ss-for-laptop.png">
 <img width="590px" src="https://github.com/iambashir/images-for-web/blob/main/Home.png">
 <img width="590px" src="https://github.com/iambashir/images-for-web/blob/main/Portfolio.png">
 <img width="590px" src="https://github.com/iambashir/images-for-web/blob/main/About.png">
