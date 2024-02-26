@@ -2,6 +2,6 @@
  <h4> ➜ TOOLS AND TECHNOLOGIES USED: HTML, CSS, Bootstrap, JavaScript (jQuery) </h4>
 
 
-<img src="https://github.com/iambashir/images-for-web/blob/main/01_preview-image.png">
-<img width="590px" src="https://github.com/iambashir/images-for-web/blob/main/Home.png">
-<img src="https://github.com/iambashir/images-for-web/blob/main/Portfolio.png">
+<img max-width="590px" src="https://github.com/iambashir/images-for-web/blob/main/01_preview-image.png">
+<img max-width="590px" src="https://github.com/iambashir/images-for-web/blob/main/Home.png">
+<img max-width="590px" src="https://github.com/iambashir/images-for-web/blob/main/Portfolio.png">
