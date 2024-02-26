@@ -11,5 +11,5 @@
 <img width="590px" src="https://raw.githubusercontent.com/iambashir/images-for-web/main/Experience.png"><br>
 <img width="590px" src="https://raw.githubusercontent.com/iambashir/images-for-web/main/Services.png"><br>
 <img width="590px" src="https://raw.githubusercontent.com/iambashir/images-for-web/main/Skills.png"><br>
-<img width="590px" src="https://raw.githubusercontent.com/iambashir/images-for-web/main/Testimonials.png"><br>
+<img style="box-shadow: 0px 0px 3px 3px grey;" width="590px" src="https://raw.githubusercontent.com/iambashir/images-for-web/main/Testimonials.png"><br>
 
